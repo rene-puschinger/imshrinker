@@ -1,7 +1,7 @@
 # imshrinker
 ImShrinker - SPIHT algorithm implementation
 
-**Created by René Puchinger in 2008 (revised in 2013).**
+**Created by René Puschinger in 2008 (revised in 2013).**
 
 A minimal implementation (console only) of the SPIHT (Set Partitioning in Hierarchical Trees) algorithm as presented in the paper
 "A new, fast, and efficient image codec based on set partitioning in hierarchical trees" by A. Said and W. A. Pearlman
